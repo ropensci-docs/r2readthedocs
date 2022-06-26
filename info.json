@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "51a32193baf76b45ce578a364e8062bccdd6b283",
+    "author": "mpadge <mark.padgham@email.com>",
+    "time": "2022-05-27 09:34:49",
+    "files": 3,
+    "merge": false,
+    "message": "skip tests on windows; pandoc < required version\n"
+  },
+  "repo": "https://github.com/ropenscilabs/r2readthedocs",
+  "pkg": "r2readthedocs"
+}
