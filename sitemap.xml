@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://docs.ropensci.org/r2readthedocs/404.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/r2readthedocs/authors.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/r2readthedocs/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/r2readthedocs/reference/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/r2readthedocs/reference/r2readthedocs-package.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/r2readthedocs/reference/r2readthedocs.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/r2readthedocs/reference/rtd_build.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/r2readthedocs/reference/rtd_clean.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/r2readthedocs/reference/rtd_dummy_pkg.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/r2readthedocs/reference/rtd_open.html</loc>
+  </url>
+</urlset>

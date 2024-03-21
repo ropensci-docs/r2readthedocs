@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "bbd2d5533f10428b66a7ecdfa8be6579a2122413",
+    "author": "mpadge <mark.padgham@email.com>",
+    "time": "2023-10-23 14:47:03",
+    "files": 3,
+    "merge": false,
+    "message": "update rtd yaml python version -> 3.12\n"
+  },
+  "repo": "https://github.com/ropenscilabs/r2readthedocs",
+  "pkg": "r2readthedocs"
+}
